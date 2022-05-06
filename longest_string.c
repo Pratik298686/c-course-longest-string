@@ -4,7 +4,7 @@
 
 int main(int argc, char **argv)
 {
-    char *maxilen = "\n";
+    char *maxilen = "";
 
     for (int i = 1; i < argc; i++)
     {
